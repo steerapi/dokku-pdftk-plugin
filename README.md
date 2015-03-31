@@ -7,7 +7,7 @@ Installation
 ------------
 ```
 cd /var/lib/dokku/plugins
-git clone https://github.com/steerapi/dokku-pdftk-plugin redis
+git clone https://github.com/steerapi/dokku-pdftk-plugin pdftk
 dokku plugins-install
 ```
 
