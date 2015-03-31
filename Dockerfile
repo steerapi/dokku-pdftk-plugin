@@ -3,7 +3,7 @@
 # Version 0.1
 
 FROM ubuntu:trusty
-MAINTAINER Sura Teerapittayanon "steerapi@gmail.com"
+MAINTAINER Surat Teerapittayanon "steerapi@gmail.com"
 
 ENV DEBIAN_FRONTEND noninteractive
 
