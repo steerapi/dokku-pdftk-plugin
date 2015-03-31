@@ -1,4 +1,4 @@
-Redis plugin for Dokku
+PDFTK plugin for Dokku
 ----------------------
 
 Project: https://github.com/progrium/dokku
